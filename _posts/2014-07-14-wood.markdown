@@ -1,0 +1,11 @@
+---
+title: Woodworking
+subtitle: Tools and Equipment
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: woodworking.png
+thumbnail: woodworking-thumbnail.png
+alt: Wood working equipment
+description: Thanks to contributions from Jim Rutt, Aaron Louie, Alex Herron, Brooks Hollar and others we have a solid collection of wood working equipment including a Hitachi 12 inch Mitre Saw, Drill Press, Table Router, Table Saw, Cordless drill and of course a wide variety of chisels, screw drivers, hammers, wrenches etc...   
+---

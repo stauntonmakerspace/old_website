@@ -1,0 +1,12 @@
+---
+title: Craft Night
+subtitle: Montly crafting evening
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: craft.jpg
+thumbnail: craft-thumbnail.png
+alt: craft night
+description: At least once a month members and non-members gather for an open evening of crafting.  Past events have included people making scrap books, wood carving, model boat building, rug making, thank you cards, magnet projects, etc...
+
+---

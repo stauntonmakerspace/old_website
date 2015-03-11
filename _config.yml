@@ -4,7 +4,7 @@ baseurl:
 # Site settings
 title: Staunton Makerspace
 email: stauntonmakers@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "A Makerspace is a community run space where people can gather to create, collaborate and learn. We hope the Staunton Makerspace will grow to support collaboration across boundaires of science and art, technlogy and craft, to invent novel objects and works of art."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -68,3 +68,5 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+exclude: [vendor]

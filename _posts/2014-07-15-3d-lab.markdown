@@ -1,0 +1,12 @@
+---
+title: 3D Printing Labs
+subtitle: Monthy Event
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: 3d.png
+thumbnail: 3d-thumbnail.png
+alt: Screen shot from OpenSCAD
+description: Learn how to use freely available tools to design 3D objects for printing.  We will do labs on various tools including TinkerCad, OpenSCad, and SketchUp.  Come get your feet wet and learn how to explore and develop the skills you need to create anything you can imagine.  
+
+---

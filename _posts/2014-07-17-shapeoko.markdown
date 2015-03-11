@@ -1,0 +1,15 @@
+---
+title: ShapeOko
+subtitle: CNC Rounter
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: shapeoko.png
+thumbnail: shapeoko-thumbnail.png
+alt: Shapeoko CNC Router
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: The ShapeOko2 is a CNC rounter that provides very detailed 3D wood working, carving, cutting, etc... all controllable from drawings on your own computer.  This machine is open to use for all members with a little basic training.  
+
+---
