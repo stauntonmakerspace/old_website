@@ -861,3 +861,13 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
+
+#paypal  {
+    width: 200px;    
+    margin: auto;
+}
+
+#paypal input {
+    margin: auto;
+    border: 0px solid black;
+}
