@@ -1,3 +1,22 @@
+
+Pre-Requirements:
+=====================
+You will need to have Ruby installed, and then "gem install jekyll"
+And then deal with all the insuing hate and anger that comes with 
+software systems to promise simplicity, then fail you.
+
+How to Run Locally:
+======================
+jekyll serve
+
+
+
+
+
+
+
+These are notes from the original theme we repurposed for the Staunton Makerspace Website.
+
 Agency Jekyll theme
 ====================
 

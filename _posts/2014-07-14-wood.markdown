@@ -6,6 +6,7 @@ modal-id: 5
 date: 2014-07-14
 img: woodworking.png
 thumbnail: woodworking-thumbnail.png
+video: woodworking_sms
 alt: Wood working equipment
-description: Thanks to contributions from Jim Rutt, Aaron Louie, Alex Herron, Brooks Hollar and others we have a solid collection of wood working equipment including a Hitachi 12 inch Mitre Saw, Drill Press, Table Router, Table Saw, Cordless drill and of course a wide variety of chisels, screw drivers, hammers, wrenches etc...   
+description: Thanks to the tremendous contribution of time and effort from Rick Hubbard, we now have a fully fleshed woodworking shop including several router tables, and Grizzly bandsaw, a series of sanders, several Compound Miter Saws, Drill presses, tables saw, Curcular saws, oscillating sanders, planers, various hand held routers, nail guns, jig saws, flush cut saws, air compressors and a dust collection system to keep it all in check.   And thanks to Ashby Wratchford for the video!  
 ---
