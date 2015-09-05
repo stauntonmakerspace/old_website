@@ -10,7 +10,13 @@ How to Run Locally:
 jekyll serve
 
 
-
+Coverting Video:
+======================
+Given a proper mp4 file from Ashby or others, run 
+```
+$ ffmpeg -i woodworking_sms.mp4 -acodec libvorbis -vcodec libtheora woodworking_sms.ogv 
+```
+This gives you an alternate ogg file that can be read by open source browsers / operating systems.
 
 
 
@@ -47,3 +53,5 @@ View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-th
 
 =========
 For more details, read [documentation](http://jekyllrb.com/)
+
+
