@@ -1,8 +1,7 @@
 /* add exact values from drop-down menu and attribute link to google calendar */ 
 var calendars = {
-	blank: "",
-	events: "",
-	makerbot: "https://www.google.com/calendar/embed?showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=jd5136ciu2tpt5cchpou5f09vk%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York"
+        events: "https://www.google.com/calendar/embed?src=03pvma0ukuk1a5gum6escq2d2k%40group.calendar.google.com&ctz=America/New_York",
+        equipment: "https://www.google.com/calendar/embed?src=u7v4l84dep9cj42mn39g9q28r4%40group.calendar.google.com&ctz=America/New_York"
 	};
 	
 function showCalendar() {

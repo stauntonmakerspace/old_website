@@ -7,8 +7,18 @@
                     <h3 class="section-subheading text-muted">This calendar shows upcoming events along with equipment reservations.</h3>
                 </div>
             	<!-- Google Calendar -->
-      			<div id="googleCalendar">
-<iframe src="https://www.google.com/calendar/embed?src=03pvma0ukuk1a5gum6escq2d2k%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-      			</div>        
-        </div>
+		<div>
+                  <select id="calendarChoice" onload="showCalendar()" onchange="showCalendar()">
+  		    <option value="events">Events</option>
+  		    <option value="equipment">Equipment</option>
+		  </select>
+		</div>
+		
+      		<div id="googleCalendar"/>
+		<script type="text/javascript">
+		  window.onload = function(){
+		  showCalendar();
+		  }
+		</script>
+            </div>
     </section>
