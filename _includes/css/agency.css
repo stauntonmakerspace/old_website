@@ -864,11 +864,15 @@ body {
 }
 
 #paypal  {
-    width: 200px;    
-    margin: auto;
+    float: right;
+    width: 300px;    
+    margin: 20px;    
 }
 
 #paypal input {
     margin: auto;
     border: 0px solid black;
 }
+
+
+
