@@ -874,5 +874,35 @@ body {
     border: 0px solid black;
 }
 
+table.membership {
+    margin:0px;padding:0px;
+    width:100%;
+    box-shadow: 10px 10px 5px #888888;
+    border:1px solid #000000;
+}
+
+table.membership tr:hover td{
+     background-color:#82c0ff;
+     background:-o-linear-gradient(bottom, #82c0ff 5%, #56aaff 100%);        background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #82c0ff), color-stop(1, #56aaff) );
+     background:-moz-linear-gradient( center top, #82c0ff 5%, #56aaff 100% );
+     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#82c0ff", endColorstr="#56aaff");      background: -o-linear-gradient(top,#82c0ff,56aaff);
+}
+
+table.membership tr th {
+     background-color: #000;
+     color: #fff;
+}
+
+table.membership tr td{
+     border:1px solid #000000;
+     border-width:0px 1px 1px 0px;
+     text-align:left;
+     padding:7px;
+     font-size:12px;
+     font-family:Comic Sans MS;
+     font-weight:bold;
+     color:#000000;
+     
+
 
 
