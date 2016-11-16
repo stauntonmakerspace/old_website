@@ -9,6 +9,12 @@ How to Run Locally:
 ======================
 jekyll serve
 
+OR if you run into problems (like I did after not running this for eons)
+
+bundle update
+bundle install
+bundle exec jekyll serve
+
 
 Coverting Video:
 ======================

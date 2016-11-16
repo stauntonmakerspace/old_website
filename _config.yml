@@ -12,9 +12,49 @@ color:
   secondary: 087099
   secondary-dark: 323232
 
+# Events
+events:
+- name: "The Pond: Makerspaces Around the World Tuesday"
+  href: https://www.meetup.com/Staunton-Makerspace/events/235627724/
+  pic: meeting
+  date: November 22 @ 7pm
+  desc: Join us for a special twist on our weekly Pond meeting, where makers share ideas, innovations, projects and more. This week will feature a special presentation from Miriam Hodgkins, who for almost three years and along a 3,000km bike tour has visited makerspaces across three continents. Join her for an inspiring update on the international makerspace and collaborative economy movement. 
+  price: Free.
+- name: "Introduction to 3D Printing"
+  href: https://www.eventbrite.com/e/introduction-to-3d-printing-tickets-29394167747
+  pic: 3dprinting
+  date: "Thursday, December 1 @ 6pm"
+  desc: This skills-focused course is designed to take attendees from novice to printer-ready for creating 3D printed projects. You’ll leave with open-source software for designing 3D printed items, additional software to send designs to the printers, an understanding of the difference between available 3D printers, live demonstrations on the equipment, plus resources for downloading and finding 3D printable designs.
+  price: $25 for members, $50 for nonmembers
+- name: Light Box “Make It & Take It” Holiday Special
+  href: https://www.eventbrite.com/e/light-box-make-it-take-it-holiday-special-tickets-29393816697
+  pic: lightbox
+  date: Saturday, December 10 @ 2pm
+  desc: Looking for the perfect Makerspace-inspired holiday gift? Workshop attendees will create from start-to-finish a laser-cut light box for themselves or as a beautiful DIY holiday present. Attendees can bring their own line design (5”x5”) or choose from available templates. The workshop cost includes all materials and equipment, including use of the laser cutter, software, LED lights, and power cords. 
+  price: $40 for members, $65 for nonmembers
+- name: Introduction to Laser Cutting
+  href: https://www.eventbrite.com/e/introduction-to-laser-cutting-tickets-29394247987
+  pic: laser
+  date: Thursday, January 12 @ 6pm
+  desc: This skills-focused course is designed to take attendees from novice to laser-ready for designing and making laser-cut projects. You’ll leave with open-source software for designing laser-cut items, additional software to send designs to the laser-cutter, an understanding of the difference between available laser-cutters, plus live demonstrations using the tools for maker-inspired projects.
+  price: $25 for members, $50 for nonmembers
+- name: "Woodworking 101: Make Your Own Coat Rack"
+  href: https://www.eventbrite.com/e/woodworking-101-make-your-own-coat-rack-tickets-29394397434
+  pic: woodworking
+  date: Saturday, January 28 @ 10am
+  desc: This skills-focused course is designed to provide an introduction to both hand and power tool techniques for basic woodworking. Attendees will construct a coat rack to take home with them upon completion of the course. Fees include all needed materials including wood, dowels, hardware, and use of tools and equipment.
+  price: $35 for members, $60 for nonmembers
+- name: "RC6: Design, Build & Fly a Remote Controlled Airplane"
+  href: "mailto:rc6@stauntonmakerspace.com?Subject=Signup%20for%20RC6"
+  pic: planes
+  date: Scheduled By Request
+  desc: Another “Make It & Take It” course, students receive direct instruction during this 8-10 week workshop series to design, build, and fly a remote controlled airplane. Course costs include access to tools, training, simulator use, controller, flight coaching, all materials, and RC6 Club membership. All ages welcome, contact Nelson to schedule a session at rc6@stauntonmakerspace.com. Current classes meet Thursday from 6:00-8:00pm.
+  price: $150 for members, $225 for nonmembers
+
+  
 # Team names, titles and social links
 people:
-- name: Ben Franklin
+- name: Benji Franklin
   pic: 1
   position: master maker
   social:

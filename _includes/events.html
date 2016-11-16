@@ -1,24 +1,45 @@
-<!-- Services Section -->
-    <section id="events">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Calendar</h2>
-                    <h3 class="section-subheading text-muted">This calendar shows upcoming events along with equipment reservations.</h3>
-                </div>
-            	<!-- Google Calendar -->
-		<div>
-                  <select id="calendarChoice" onload="showCalendar()" onchange="showCalendar()">
-  		    <option value="events">Events</option>
-  		    <option value="equipment">Equipment</option>
-		  </select>
-		</div>
-		
-      		<div id="googleCalendar"/>
-		<script type="text/javascript">
-		  window.onload = function(){
-		  showCalendar();
-		  }
-		</script>
-            </div>
-    </section>
+<!-- Team Section -->
+<section id="events" class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Upcoming Events</h2>
+      </div>
+    </div>
+    <div class="row">
+      {% for event in site.events %}
+      <div class="col-sm-4" style="float: left; width: 30%">
+        <div class="team-member">
+          <a href="{{event.href}}">
+	    <img src="img/events/{{ event.pic }}.jpg" class="img-responsive img-circle" alt="">
+          <h4>{{ event.name }}</h4>
+	  </a>
+	  <h4>{{ event.date }}</h4>
+	  <p class="text-muted">{{ event.desc }}</p>
+	  <em>{{ event.price }}</em>
+
+	</div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 text-center">
+	<!-- Google Calendar -->
+	<div>
+          <select id="calendarChoice" onload="showCalendar()" onchange="showCalendar()">
+  	    <option value="events">Events</option>
+  	    <option value="equipment">Equipment</option>
+	  </select>
+	</div>
+	
+      	<div id="googleCalendar"/>
+	<script type="text/javascript">
+	  window.onload = function(){
+	  showCalendar();
+	  }
+	</script>
+      </div>
+    </div>
+  </div>
+</section>
+
