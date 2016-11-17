@@ -14,10 +14,10 @@ color:
 
 # Events
 events:
-- name: "The Pond: Makerspaces Around the World Tuesday"
+- name: "The Pond: Makerspaces Around the World"
   href: https://www.meetup.com/Staunton-Makerspace/events/235627724/
   pic: meeting
-  date: November 22 @ 7pm
+  date: Tuesday, November 22 @ 7pm
   desc: Join us for a special twist on our weekly Pond meeting, where makers share ideas, innovations, projects and more. This week will feature a special presentation from Miriam Hodgkins, who for almost three years and along a 3,000km bike tour has visited makerspaces across three continents. Join her for an inspiring update on the international makerspace and collaborative economy movement. 
   price: Free.
 - name: "Introduction to 3D Printing"
