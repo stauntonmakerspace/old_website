@@ -863,15 +863,17 @@ body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
 
-#paypal  {
-    float: right;
-    width: 300px;    
-    margin: 20px;    
+.paypal {
+    text-align: center;
+    border: 1px solid gray;
+    margin: 10px;
 }
 
-#paypal input {
+.paypal input, .paypal select {
+    display: block;
     margin: auto;
     border: 0px solid black;
+    padding: 3px;
 }
 
 table.membership {
@@ -898,9 +900,9 @@ table.membership tr td{
      border-width:0px 1px 1px 0px;
      text-align:left;
      padding:7px;
-     font-size:12px;
+     font-size:1.2em;
      font-family:Comic Sans MS;
-     font-weight:bold;
+     font-weight:normal;
      color:#000000;
      
 

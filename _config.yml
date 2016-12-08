@@ -14,18 +14,6 @@ color:
 
 # Events
 events:
-- name: "The Pond: Makerspaces Around the World"
-  href: https://www.meetup.com/Staunton-Makerspace/events/235627724/
-  pic: meeting
-  date: Tuesday, November 22 @ 7pm
-  desc: Join us for a special twist on our weekly Pond meeting, where makers share ideas, innovations, projects and more. This week will feature a special presentation from Miriam Hodgkins, who for almost three years and along a 3,000km bike tour has visited makerspaces across three continents. Join her for an inspiring update on the international makerspace and collaborative economy movement. 
-  price: Free.
-- name: "Introduction to 3D Printing"
-  href: https://www.eventbrite.com/e/introduction-to-3d-printing-tickets-29394167747
-  pic: 3dprinting
-  date: "Thursday, December 1 @ 6pm"
-  desc: This skills-focused course is designed to take attendees from novice to printer-ready for creating 3D printed projects. You’ll leave with open-source software for designing 3D printed items, additional software to send designs to the printers, an understanding of the difference between available 3D printers, live demonstrations on the equipment, plus resources for downloading and finding 3D printable designs.
-  price: $25 for members, $50 for nonmembers
 - name: Light Box “Make It & Take It” Holiday Special
   href: https://www.eventbrite.com/e/light-box-make-it-take-it-holiday-special-tickets-29393816697
   pic: lightbox
