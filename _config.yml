@@ -14,12 +14,6 @@ color:
 
 # Events
 events:
-- name: Light Box “Make It & Take It” Holiday Special
-  href: https://www.eventbrite.com/e/light-box-make-it-take-it-holiday-special-tickets-29393816697
-  pic: lightbox
-  date: Saturday, December 10 @ 2pm
-  desc: Looking for the perfect Makerspace-inspired holiday gift? Workshop attendees will create from start-to-finish a laser-cut light box for themselves or as a beautiful DIY holiday present. Attendees can bring their own line design (5”x5”) or choose from available templates. The workshop cost includes all materials and equipment, including use of the laser cutter, software, LED lights, and power cords. 
-  price: $40 for members, $65 for nonmembers
 - name: Introduction to Laser Cutting
   href: https://www.eventbrite.com/e/introduction-to-laser-cutting-tickets-29394247987
   pic: laser
@@ -38,8 +32,13 @@ events:
   date: Scheduled By Request
   desc: Another “Make It & Take It” course, students receive direct instruction during this 8-10 week workshop series to design, build, and fly a remote controlled airplane. Course costs include access to tools, training, simulator use, controller, flight coaching, all materials, and RC6 Club membership. All ages welcome, contact Nelson to schedule a session at rc6@stauntonmakerspace.com. Current classes meet Thursday from 6:00-8:00pm.
   price: $150 for members, $225 for nonmembers
-
-  
+- name: "3D Printing with Tinkercad:  Make It & Take It"
+  href: "https://www.eventbrite.com/e/3d-printing-with-tinkercad-make-it-take-it-tickets-30816335489"
+  pic: 3dlogo
+  date: February 15th, 6:00pm
+  desc: "In this 3D printing course, participants will learn to design, edit, and print in free Tinkercad software. The first half of the course will focus on a general overview to 3D printing and a classroom introduction to Tinkercad. The second half will invite participants to design their own 3D object, with expert assistance provided as students develop their Tinkercad skills. We encourage (though don't require!) participants to bring a laptop. 3D printed designs are limited to two square inches and are available to pick up the day after class. All levels of experience are welcome, including those who have taken our prior 3D printing courses, which focused on different software techniques and platforms. Open to ages 7 and up."
+  price: $30 for members), $55 for nonmembers
+   
 # Team names, titles and social links
 people:
 - name: Benji Franklin
