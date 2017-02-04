@@ -14,30 +14,30 @@ color:
 
 # Events
 events:
-- name: Introduction to Laser Cutting
-  href: https://www.eventbrite.com/e/introduction-to-laser-cutting-tickets-29394247987
-  pic: laser
-  date: Thursday, January 12 @ 6pm
-  desc: This skills-focused course is designed to take attendees from novice to laser-ready for designing and making laser-cut projects. You’ll leave with open-source software for designing laser-cut items, additional software to send designs to the laser-cutter, an understanding of the difference between available laser-cutters, plus live demonstrations using the tools for maker-inspired projects.
-  price: $25 for members, $50 for nonmembers
-- name: "Woodworking 101: Make Your Own Coat Rack"
-  href: https://www.eventbrite.com/e/woodworking-101-make-your-own-coat-rack-tickets-29394397434
-  pic: woodworking
-  date: Saturday, January 28 @ 10am
-  desc: This skills-focused course is designed to provide an introduction to both hand and power tool techniques for basic woodworking. Attendees will construct a coat rack to take home with them upon completion of the course. Fees include all needed materials including wood, dowels, hardware, and use of tools and equipment.
+- name: "3D Printing with Tinkercad:  Make It & Take It"
+  href: "https://www.eventbrite.com/e/3d-printing-with-tinkercad-make-it-take-it-tickets-30816335489"
+  pic: 3dlogo
+  date: Wednesday, February 15th @ 6:00pm
+  desc: "In this 3D printing course, participants will learn to design, edit, and print in free Tinkercad software. The first half of the course will focus on a general overview to 3D printing and a classroom introduction to Tinkercad. The second half will invite participants to design their own 3D object, with expert assistance provided as students develop their Tinkercad skills. We encourage (though don't require!) participants to bring a laptop. 3D printed designs are limited to two square inches and are available to pick up the day after class. All levels of experience are welcome, including those who have taken our prior 3D printing courses, which focused on different software techniques and platforms. Open to ages 7 and up."
+  price: $30 for members), $55 for nonmembers
+- name: "Virtual Reality Goes DIY -- A Make It & Take It Workshop"
+  href: https://www.eventbrite.com/e/virtual-reality-goes-diy-a-make-it-take-it-workshop-tickets-31340764069
+  pic: goggles
+  date: Thursday, February 23rd @ 6pm
+  desc: "In this Maker Experience, participants will build the famous Google Cardboard, which can turn your smart phone into an immersive, full-on virtual reality headset, allowing you to explore the solar system, play video games, or even create your own virtual reality content, just by moving your head. Each participant will receive one Google Cardboard kit and we will walk you through the build process. We will also introduce you to a few popular applications downloadable to your smartphone. If you haven't seen one of these in action, we promise you, it will knock your socks off. Open to ages 7 and up. Attendees may also choose to purchase an extra kit to assemble at home or for a friend, available for $15 at the conclusion of the course. "
   price: $35 for members, $60 for nonmembers
+- name: "Introduction to CNC Routers: Learn to Make a Wooden Inlay"
+  href: https://www.eventbrite.com/e/introduction-to-cnc-routers-learn-to-make-a-wooden-inlay-tickets-31335506343?aff=erelpanelorg
+  pic: heart
+  date: Thurday, March 2nd @ 6pm
+  desc: "This skill building course will introduce you to the Makerspace's CNC machine, a software-controlled carving tool that can be used to make precise inlays, 3D carvings, and more. Focusing on Easel, a simple software program that makes cutting very straight forward, we'll cover the basics needed to use this computer-controlled router to carve out projects in plastic and wood. Together, we will design and cut a custom inlay for a jewelry box. We will cover many of the basics applicable to all CNC-based machines. The class is great for existing members who want to learn more, aspiring members who want to hit the ground running, and all who are interested in becoming acquainted with this delightful tool. We recommend, but do not require, that you bring a laptop. "
+  price: $30 for members, $55 for nonmembers
 - name: "RC6: Design, Build & Fly a Remote Controlled Airplane"
   href: "mailto:rc6@stauntonmakerspace.com?Subject=Signup%20for%20RC6"
   pic: planes
   date: Scheduled By Request
   desc: Another “Make It & Take It” course, students receive direct instruction during this 8-10 week workshop series to design, build, and fly a remote controlled airplane. Course costs include access to tools, training, simulator use, controller, flight coaching, all materials, and RC6 Club membership. All ages welcome, contact Nelson to schedule a session at rc6@stauntonmakerspace.com. Current classes meet Thursday from 6:00-8:00pm.
   price: $150 for members, $225 for nonmembers
-- name: "3D Printing with Tinkercad:  Make It & Take It"
-  href: "https://www.eventbrite.com/e/3d-printing-with-tinkercad-make-it-take-it-tickets-30816335489"
-  pic: 3dlogo
-  date: February 15th, 6:00pm
-  desc: "In this 3D printing course, participants will learn to design, edit, and print in free Tinkercad software. The first half of the course will focus on a general overview to 3D printing and a classroom introduction to Tinkercad. The second half will invite participants to design their own 3D object, with expert assistance provided as students develop their Tinkercad skills. We encourage (though don't require!) participants to bring a laptop. 3D printed designs are limited to two square inches and are available to pick up the day after class. All levels of experience are welcome, including those who have taken our prior 3D printing courses, which focused on different software techniques and platforms. Open to ages 7 and up."
-  price: $30 for members), $55 for nonmembers
    
 # Team names, titles and social links
 people:
