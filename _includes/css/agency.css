@@ -341,6 +341,17 @@ section h3.section-subheading {
     text-align: left;
 }
 
+section h3.section-subheading-negative {
+    color: white;
+    margin-bottom: 75px;
+    text-transform: none;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 400;
+    text-align: left;
+}
+
 @media(min-width:768px) {
     section {
         padding: 150px 0;

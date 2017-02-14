@@ -14,12 +14,6 @@ color:
 
 # Events
 events:
-- name: "3D Printing with Tinkercad:  Make It & Take It"
-  href: "https://www.eventbrite.com/e/3d-printing-with-tinkercad-make-it-take-it-tickets-30816335489"
-  pic: 3dlogo
-  date: Wednesday, February 15th @ 6:00pm
-  desc: "In this 3D printing course, participants will learn to design, edit, and print in free Tinkercad software. The first half of the course will focus on a general overview to 3D printing and a classroom introduction to Tinkercad. The second half will invite participants to design their own 3D object, with expert assistance provided as students develop their Tinkercad skills. We encourage (though don't require!) participants to bring a laptop. 3D printed designs are limited to two square inches and are available to pick up the day after class. All levels of experience are welcome, including those who have taken our prior 3D printing courses, which focused on different software techniques and platforms. Open to ages 7 and up."
-  price: $30 for members), $55 for nonmembers
 - name: "Virtual Reality Goes DIY -- A Make It & Take It Workshop"
   href: https://www.eventbrite.com/e/virtual-reality-goes-diy-a-make-it-take-it-workshop-tickets-31340764069
   pic: goggles
