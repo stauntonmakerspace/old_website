@@ -1,5 +1,5 @@
 url: http://stauntonmakerspace.github.io
-baseurl: 
+baseurl:
 
 # Site settings
 title: Staunton Makerspace
@@ -14,25 +14,28 @@ color:
 
 # Events
 events:
-- name: "Virtual Reality Goes DIY -- A Make It & Take It Workshop"
-  href: https://www.eventbrite.com/e/virtual-reality-goes-diy-a-make-it-take-it-workshop-tickets-31340764069
-  pic: goggles
-  date: Thursday, February 23rd @ 6pm
-  desc: "In this Maker Experience, participants will build the famous Google Cardboard, which can turn your smart phone into an immersive, full-on virtual reality headset, allowing you to explore the solar system, play video games, or even create your own virtual reality content, just by moving your head. Each participant will receive one Google Cardboard kit and we will walk you through the build process. We will also introduce you to a few popular applications downloadable to your smartphone. If you haven't seen one of these in action, we promise you, it will knock your socks off. Open to ages 7 and up. Attendees may also choose to purchase an extra kit to assemble at home or for a friend, available for $15 at the conclusion of the course. "
-  price: $35 for members, $60 for nonmembers
-- name: "Introduction to CNC Routers: Learn to Make a Wooden Inlay"
-  href: https://www.eventbrite.com/e/introduction-to-cnc-routers-learn-to-make-a-wooden-inlay-tickets-31335506343?aff=erelpanelorg
-  pic: heart
-  date: Thurday, March 2nd @ 6pm
-  desc: "This skill building course will introduce you to the Makerspace's CNC machine, a software-controlled carving tool that can be used to make precise inlays, 3D carvings, and more. Focusing on Easel, a simple software program that makes cutting very straight forward, we'll cover the basics needed to use this computer-controlled router to carve out projects in plastic and wood. Together, we will design and cut a custom inlay for a jewelry box. We will cover many of the basics applicable to all CNC-based machines. The class is great for existing members who want to learn more, aspiring members who want to hit the ground running, and all who are interested in becoming acquainted with this delightful tool. We recommend, but do not require, that you bring a laptop. "
-  price: $30 for members, $55 for nonmembers
+- name: "The Art of Air: Kite Making for Kids (and the Young at Heart)"
+  href: https://www.eventbrite.com/e/the-art-of-air-kite-making-for-kids-and-the-young-at-heart-tickets-32133656632?aff=ehomecard
+  pic: kites
+  date: Wednesday and Thursday, March 22 and 23, 5:30-7PM
+  desc: "Join the Staunton Makerspace to build beautiful kites with household art supplies. Open to children, teens, and the young-at-heart of all ages, this two-evening workshop will provide an opportunity for students to design, cut, glue, and decorate their own kites. Pending good weather, students are encourage to bring their kites back to the Makerspace the following Saturday during our free Arts & Artisan Maker Faire for an outdoor welcoming of springtime breezes. In addition to hands-on crafting, we will sprinkle in fun science facts, a dose of physics, and an array of artistic inspiration. The course is taught by Makerspace Member Kathleen Garcia, an arts and literacy teacher and longtime advocate of bringing art into the classroom.
+The event runs two evenings: Wednesday the 22nd from 5:30pm to 7:00pm and Thursday the 23rd from 5:30pm to 7:00pm. Glue used in the kites will dry during the day between the two portions of the event."
+  price: $20 for members, $35 for nonmembers
+- name: "Arts & Artisan Maker Faire"
+  href: https://www.facebook.com/events/265148350580773/
+  pic: artisanfaire
+  date: Saturday, March 25, 2-5PM
+  desc: "Our Arts & Artisan Maker Faire is ON. This event will be our first full open house in our new location. We're letting loose our artistic side, crafting the beautiful with the functional and celebrating the art of making. Come meet artists, artisans, and makers, tour the new space, and get your hands dirty with us.
+Artful Gifts LLC will be onhand with felt-making projects. Craig Snodgrass Art is the amazing artist behind out poster design. Gene Provenzo will be showing how he's incorporated laser cutting into his artwork. Drawing, painting, and even screenprinting are planned to be incorporated. We will be updating artist and artisan announcements on Facebook, so check back often.
+Children and adults of all ages are welcome. This will be the first Saturday of spring, and we hope you'll find us indoors and out at the Staunton Makerspace."
+  price: Free!
 - name: "RC6: Design, Build & Fly a Remote Controlled Airplane"
   href: "mailto:rc6@stauntonmakerspace.com?Subject=Signup%20for%20RC6"
   pic: planes
   date: Scheduled By Request
   desc: Another “Make It & Take It” course, students receive direct instruction during this 8-10 week workshop series to design, build, and fly a remote controlled airplane. Course costs include access to tools, training, simulator use, controller, flight coaching, all materials, and RC6 Club membership. All ages welcome, contact Nelson to schedule a session at rc6@stauntonmakerspace.com. Current classes meet Thursday from 6:00-8:00pm.
   price: $150 for members, $225 for nonmembers
-   
+
 # Team names, titles and social links
 people:
 - name: Benji Franklin
@@ -71,19 +74,15 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: 
+    url:
   - title: facebook
     url: https://www.facebook.com/pages/Staunton-Makerspace/297780750378723?ref=br_tf
-  - title: 
-    url: 
-  - title: 
-    url: 
   - title: github
     url: http://github.com/stauntonmakerspace
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 222 S Washington St
+  - line: 17 N Central Avenue
   - line: Staunton, VA 24401
 
 # Build settings
