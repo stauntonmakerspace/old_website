@@ -915,7 +915,10 @@ table.membership tr td{
      font-family:Comic Sans MS;
      font-weight:normal;
      color:#000000;
-     
+}
 
-
-
+#mc_embed_signup {
+  background:#fff;
+  clear:left;
+  font:14px; 
+}
