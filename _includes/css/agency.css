@@ -880,6 +880,13 @@ body {
     margin: 10px;
 }
 
+.paypal_slim {
+    text-align: center;
+    font-weight: 1.2em;
+    border: none;
+    margin: 2px;
+}
+
 .paypal input, .paypal select {
     display: block;
     margin: auto;
