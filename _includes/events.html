@@ -1,4 +1,4 @@
-<!-- Team Section -->
+<!-- Event Section -->
 <section id="events" class="bg-light-gray">
   <div class="container">
     <div class="row">
@@ -7,7 +7,7 @@
       </div>
     </div>
     <div class="row">
-      {% for event in site.events %}
+      {% for event in site.data.events %}
       <div class="col-sm-4">
         <div class="team-member">
           <a href="{{event.href}}">
