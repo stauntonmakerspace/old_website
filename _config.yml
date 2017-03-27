@@ -14,21 +14,6 @@ color:
 
 # Events
 events:
-- name: "The Art of Air: Kite Making for Kids (and the Young at Heart)"
-  href: https://www.eventbrite.com/e/the-art-of-air-kite-making-for-kids-and-the-young-at-heart-tickets-32133656632?aff=ehomecard
-  pic: kites
-  date: Wednesday and Thursday, March 22 and 23, 5:30-7PM
-  desc: "Join the Staunton Makerspace to build beautiful kites with household art supplies. Open to children, teens, and the young-at-heart of all ages, this two-evening workshop will provide an opportunity for students to design, cut, glue, and decorate their own kites. Pending good weather, students are encourage to bring their kites back to the Makerspace the following Saturday during our free Arts & Artisan Maker Faire for an outdoor welcoming of springtime breezes. In addition to hands-on crafting, we will sprinkle in fun science facts, a dose of physics, and an array of artistic inspiration. The course is taught by Makerspace Member Kathleen Garcia, an arts and literacy teacher and longtime advocate of bringing art into the classroom.
-The event runs two evenings: Wednesday the 22nd from 5:30pm to 7:00pm and Thursday the 23rd from 5:30pm to 7:00pm. Glue used in the kites will dry during the day between the two portions of the event."
-  price: $20 for members, $35 for nonmembers
-- name: "Arts & Artisan Maker Faire"
-  href: https://www.facebook.com/events/265148350580773/
-  pic: artisanfaire
-  date: Saturday, March 25, 2-5PM
-  desc: "Our Arts & Artisan Maker Faire is ON. This event will be our first full open house in our new location. We're letting loose our artistic side, crafting the beautiful with the functional and celebrating the art of making. Come meet artists, artisans, and makers, tour the new space, and get your hands dirty with us.
-Artful Gifts LLC will be onhand with felt-making projects. Craig Snodgrass Art is the amazing artist behind out poster design. Gene Provenzo will be showing how he's incorporated laser cutting into his artwork. Drawing, painting, and even screenprinting are planned to be incorporated. We will be updating artist and artisan announcements on Facebook, so check back often.
-Children and adults of all ages are welcome. This will be the first Saturday of spring, and we hope you'll find us indoors and out at the Staunton Makerspace."
-  price: Free!
 - name: "3D Printing with Tinkercad: Make It & Take It"
   href: "https://www.eventbrite.com/e/3d-printing-with-tinkercad-make-it-take-it-tickets-33033411824"
   pic: 3dlogo
