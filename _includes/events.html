@@ -7,19 +7,22 @@
       </div>
     </div>
     <div class="row">
+      {% assign curDate = site.time | date: '%s' %}
       {% for event in site.data.events %}
-      <div class="col-sm-4">
-        <div class="team-member">
-          <a href="{{event.href}}">
-	    <img src="img/events/{{ event.pic }}.jpg" class="img-responsive img-circle" alt="">
-          <h4>{{ event.name }}</h4>
-	  </a>
-	  <h4>{{ event.date }}</h4>
-	  <p class="text-muted">{{ event.desc }}</p>
-	  <em>{{ event.price }}</em>
-
-	</div>
-      </div>
+        {% assign eventStartDate = event.date | date: '%s' %}
+        {% if eventStartDate >= curDate %}
+          <div class="col-sm-4">
+            <div class="team-member">
+              <a href="{{event.href}}">
+    	           <img src="img/events/{{ event.pic }}.jpg" class="img-responsive img-circle" alt="">
+                 <h4>{{ event.name }}</h4>
+    	        </a>
+    	        <h4>{{ event.classtime }}</h4>
+    	        <p class="text-muted">{{ event.desc }}</p>
+    	        <em>{{ event.price }}</em>
+    	       </div>
+          </div>
+        {% endif %}
       {% endfor %}
     </div>
     <div class="row">
