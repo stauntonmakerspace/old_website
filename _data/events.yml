@@ -1,0 +1,22 @@
+# Events
+  - name: "3D Printing with Tinkercad: Make It & Take It"
+    href: "https://www.eventbrite.com/e/3d-printing-with-tinkercad-make-it-take-it-tickets-33033411824"
+    pic: 3dlogo
+    date: 2017-04-06 18:00
+    classtime: Thursday, April 6, 6-8PM
+    desc: "In this 3D printing course, participants will learn to design, edit, and print in free Tinkercad software, an online application you can open right in your web browser! The first half of the course will focus on a general overview of 3D printing and a classroom introduction to Tinkercad. The second half will invite participants to design their own 3D object, with expert assistance provided as students develop their Tinkercad skills. We encourage (though don't require) participants to bring a laptop. 3D printed designs are limited to two square inches and are available to pick up the day after class. All levels of experience are welcome, including those who have taken our prior 3D printing courses, which focused on different software techniques and platforms. Open to ages 7 and up, but children must be accompanied by a parent"
+    price: $30 for members, $55 for nonmembers
+  - name: "Open Source Software: Graphic Design with Inkscape"
+    href: "https://www.eventbrite.com/e/open-source-software-graphic-design-with-inkscape-tickets-33033828069"
+    pic: lightbulbs
+    date: 2017-04-20 18:00
+    classtime: Thursday, April 20, 6-8PM
+    desc: "Open source software is a cornerstone of the maker movement: collaboratively built, free to use, maintained and improved by its users. This workshop is part of an evolving series to train makers on powerful, open source software that underlies many of our making tools and equipment. Inkscape is a vector graphics application used for illustrations, diagrams, line art, logos and more, creating images that can be used online, artistically, or for laser cutting and wood etching. The workshop will provide an overview of the software itself, its most powerful features, and live feedback and assistance as participants explore creating their own design and images. You'll leave with the latest version of Inkscape, plus the confidence to design, create, and play with this graphics design and image-creating tool. Attendees are encouraged by not required to bring their own laptop (please try and install Inkscape before you come, it's free!). This workshop is offered as a precursor to future laser cutting classes. (Event photo by OpenSource.com)"
+    price: $25 for members, $50 for nonmembers
+  - name: "RC6: Design, Build & Fly a Remote Controlled Airplane"
+    href: "mailto:rc6@stauntonmakerspace.com?Subject=Signup%20for%20RC6"
+    pic: planes
+    date: 2117-04-20 18:00
+    classtime: Scheduled By Request
+    desc: Another “Make It & Take It” course, students receive direct instruction during this 8-10 week workshop series to design, build, and fly a remote controlled airplane. Course costs include access to tools, training, simulator use, controller, flight coaching, all materials, and RC6 Club membership. All ages welcome, contact Nelson to schedule a session at rc6@stauntonmakerspace.com. Current classes meet Thursday from 6:00-8:00pm.
+    price: $150 for members, $225 for nonmembers
