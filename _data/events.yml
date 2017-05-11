@@ -1,4 +1,58 @@
 # Events
+  - name: "MakerSCAD Demo"
+    href: "https://www.eventbrite.com/e/makerscad-demo-free-tickets-34521077472?aff=erelpanelorg"
+    pic: makerscad
+    date: 2017-05-15 18:00
+    classtime: Monday, May 15, 6-7:30PM
+    desc: "MakerSCAD is a 3D design application that uses a block based scripting language to create shapes, objects and worlds. MakerSCAD is currently in an Alpha stage, so your early feedback will help the presenters (Luigi Pacheco, co-founder or MakerSCAD) improve MakerSCAD, add new features, and refine the user interface.
+      By using MakersCAD users are not only learning 3D modeling but computer programming as well. MakerSCAD modular design makes it perfect for beginners but it also contains unlimited possibilities with its advanced JavaSrcript interface for experienced users.
+      Please note: MakerSCAD is shifting to a pay what you can model for their software, in which they are looking for everyone to have access to MakerSCAD. The workshop itself is free, and attendees will be able to download Makerscad and pay whatever they want (including $0.00) for the software. Everyone is encouraged (although not required!) to bring a laptop to the event."
+    price: FREE
+  - name: "Woodworking 101: Make Your Own Coat Rack"
+    href: "https://www.eventbrite.com/e/woodworking-101-make-your-own-coat-rack-tickets-34521813674"
+    pic: coatrack
+    date: 2017-06-17 10:00
+    classtime: Saturday, June 17, 10AM-2PM
+    desc: "This skills-focused course is designed to provide an introduction to both hand and power tool techniques for basic woodworking. Attendees will construct a coat rack to take home with them upon completion. Enjoy the making process, be proud of your creation, plus get comfortable on woodworking equipment. This course is designed to be accessible to the novice but also fun for those with moderate woodworking experience. All levels of experience are welcome. Open to ages 8 and up, although children should be accompanied by an adult.
+    Instructor: Rick Hubbard. Rick is a long-time woodworker and donor of many of the makerspaces woodworking tools. He teaches “Make It & Take It” makerspace workshops, introducing students to new equipment and helping them begin their woodworking journeys from skill acquisition, to design, construction, finishing and more.
+    In Partership with: Staunton Parks and Recreation! You can also register in person at the Staunton Parks and Rec offices, or at the Staunton Makerspace. We look forward to seeing you there."
+    price: $60
+  - name: "3D Printing with Tinkercad: Make It & Take It"
+    href: "https://www.eventbrite.com/e/3d-printing-w-tinkercad-make-it-take-it-tickets-34521497729"
+    pic: 3dlogo
+    date: 2017-06-29 18:00
+    classtime: Thursday, June 29, 6-8PM
+    desc: "In this 3D printing course, participants will learn to design, edit, and print in free Tinkercad software. The first half of the course will focus on a general overview of 3D printing and a classroom introduction to Tinkercad, and the second half will invite participants to design their own 3D object with expert assistance provided as students develop their Tinkercad skills. We encourage (though don’t require) participants to bring a laptop. 3D printed designs are limited to two square inches and are available to pick up the day after class. All levels of experience are welcome. Open to ages 7 and up, although children should be accompanied by an adult.
+    Instructor: Andy Wiseman. Andy learned many of his Makerspace skills while building a fully operational (rolling, spinning, and speaking) Star Wars R2D2 replica.
+    In Partnership with: Staunton Parks & Recreation! You can also register in person at the Staunton Parks and Rec offices, or at the Staunton Makerspace. We look forward to seeing you there."
+    price: $50
+  - name: "Introduction to CNC Routers: Making a Wooden Inlay"
+    href: "https://www.eventbrite.com/e/introduction-to-cnc-routers-making-a-wooden-inlay-tickets-34522077463"
+    pic: heart
+    date: 2017-06-29 18:00
+    classtime: Thursday, July 13, 6:30-8:30PM
+    desc: "This skill building course will introduce you to a CNC routing machine, a software-controlled carving tool that can be used to make precise inlays, 3D carvings, and more. Focusing on Easel, a simple and free software program that makes cutting very straight forward, we’ll cover the basics needed to use this computer-controlled router to carve projects in plastic and wood. Together, we will design and cut a custom inlay for a jewelry box. We will cover many of the basics applicable to all CNC-based machines. We recommend, but do not require, that you bring a laptop. All levels of experience are welcome. Open to ages 7 and up, although children should be accompanied by an adult.
+    Instructor: Dan Funk. Dan is an entrepreneur, computer programmer, website designer, and co-founder of the Staunton Makerspace.
+    In Partnership with: Staunton Parks and Rec! You can also register in person at the Staunton Parks and Rec offices, or at the Staunton Makerspace. We look forward to seeing you there."
+    price: $55
+  - name: "Introduction to Laser Cutting: Make It & Take It"
+    href: "https://www.eventbrite.com/e/introduction-to-laser-cutting-make-it-take-it-tickets-34522405444"
+    pic: andyr2d2
+    date: 2017-08-10 18:00
+    classtime: Thursday, August 10, 6-8:30PM
+    desc: "This skills-focused Laser Cutting course is designed to take attendees from novice to laser-ready for designing and making laser cut projects. You’ll leave with opensource software for designing, editing, and “printing” laser-cut items, along with your own laser-cut sample project to take home. Laser cut designs are limited to a 5” by 5” design in wood or plexiglass (with both etching and cutting capabilities) and are available to pick up the day after class. We encourage but (don’t require!) you to bring your own laptop. All levels of experience are welcome. Open to ages 7 and up, although children should be accompanied by an adult.
+    Instructor: Andy Wiseman. Andy teaches many “Make It & Take It” makerspace workshops, introducing students to new equipment and helping them begin their own journeys to prototyping, constructing, innovating and more. Andy learned many of his laser cutting skills while building a fully operational (rolling, spinning, and speaking) Star Wars R2D2 replica (pictured above).
+    In Partnership with: Staunton Parks and Rec! You can also register in person at the Staunton Parks and Rec offices, or at the Staunton Makerspace. We look forward to seeing you there."
+    price: $50
+  - name: "RC6: Design, Build & Fly a Remote Controlled Airplane"
+    href: "mailto:rc6@stauntonmakerspace.com?Subject=Signup%20for%20RC6"
+    pic: planes
+    date: 2117-04-20 18:00
+    classtime: Scheduled By Request
+    desc: Another “Make It & Take It” course, students receive direct instruction during this 8-10 week workshop series to design, build, and fly a remote controlled airplane. Course costs include access to tools, training, simulator use, controller, flight coaching, all materials, and RC6 Club membership. All ages welcome, contact Nelson to schedule a session at rc6@stauntonmakerspace.com. Current classes meet Thursday from 6:00-8:00pm.
+    price: $150 for members, $225 for nonmembers
+
+# Past Events
   - name: "3D Printing with Tinkercad: Make It & Take It"
     href: "https://www.eventbrite.com/e/3d-printing-with-tinkercad-make-it-take-it-tickets-33033411824"
     pic: 3dlogo
@@ -13,10 +67,3 @@
     classtime: Thursday, April 20, 6-8PM
     desc: "Open source software is a cornerstone of the maker movement: collaboratively built, free to use, maintained and improved by its users. This workshop is part of an evolving series to train makers on powerful, open source software that underlies many of our making tools and equipment. Inkscape is a vector graphics application used for illustrations, diagrams, line art, logos and more, creating images that can be used online, artistically, or for laser cutting and wood etching. The workshop will provide an overview of the software itself, its most powerful features, and live feedback and assistance as participants explore creating their own design and images. You'll leave with the latest version of Inkscape, plus the confidence to design, create, and play with this graphics design and image-creating tool. Attendees are encouraged by not required to bring their own laptop (please try and install Inkscape before you come, it's free!). This workshop is offered as a precursor to future laser cutting classes. (Event photo by OpenSource.com)"
     price: $25 for members, $50 for nonmembers
-  - name: "RC6: Design, Build & Fly a Remote Controlled Airplane"
-    href: "mailto:rc6@stauntonmakerspace.com?Subject=Signup%20for%20RC6"
-    pic: planes
-    date: 2117-04-20 18:00
-    classtime: Scheduled By Request
-    desc: Another “Make It & Take It” course, students receive direct instruction during this 8-10 week workshop series to design, build, and fly a remote controlled airplane. Course costs include access to tools, training, simulator use, controller, flight coaching, all materials, and RC6 Club membership. All ages welcome, contact Nelson to schedule a session at rc6@stauntonmakerspace.com. Current classes meet Thursday from 6:00-8:00pm.
-    price: $150 for members, $225 for nonmembers
