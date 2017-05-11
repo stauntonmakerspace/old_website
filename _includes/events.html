@@ -11,7 +11,7 @@
       {% for event in site.data.events %}
         {% assign eventStartDate = event.date | date: '%s' %}
         {% if eventStartDate >= curDate %}
-          <div class="col-sm-4">
+          <div class="col-sm-6">
             <div class="team-member">
               <a href="{{event.href}}">
     	           <img src="img/events/{{ event.pic }}.jpg" class="img-responsive img-circle" alt="">
