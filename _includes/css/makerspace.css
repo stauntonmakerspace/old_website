@@ -1,0 +1,64 @@
+/*Modifications to theme css particular to the Staunton Makerspace website*/
+.paypal {
+    text-align: center;
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+.paypal_slim {
+    text-align: center;
+    font-weight: 1.2em;
+    border: none;
+    margin: 2px;
+}
+
+.paypal input, .paypal select {
+    display: block;
+    margin: auto;
+    border: 0px solid black;
+    padding: 3px;
+}
+
+table.membership {
+    margin:0px;padding:0px;
+    width:100%;
+    box-shadow: 10px 10px 5px #888888;
+    border:1px solid #000000;
+}
+
+table.membership tr:hover td{
+     background-color:#82c0ff;
+     background:-o-linear-gradient(bottom, #82c0ff 5%, #56aaff 100%);        background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #82c0ff), color-stop(1, #56aaff) );
+     background:-moz-linear-gradient( center top, #82c0ff 5%, #56aaff 100% );
+     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#82c0ff", endColorstr="#56aaff");      background: -o-linear-gradient(top,#82c0ff,56aaff);
+}
+
+table.membership tr th {
+     background-color: #000;
+     color: #fff;
+}
+
+table.membership tr td{
+     border:1px solid #000000;
+     border-width:0px 1px 1px 0px;
+     text-align:left;
+     padding:7px;
+     font-size:1.2em;
+     font-family:Comic Sans MS;
+     font-weight:normal;
+     color:#000000;
+}
+
+#mc_embed_signup {
+  background:#fff;
+  clear:left;
+  font:14px;
+}
+.row.flex-cols {
+    display: flex;
+    flex-wrap: wrap;
+}
+.row.flex-cols > [class*='col-'] {
+    display: flex;
+    flex-direction: column;
+}
