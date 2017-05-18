@@ -54,3 +54,11 @@ table.membership tr td{
   clear:left;
   font:14px;
 }
+.row.flex-cols {
+    display: flex;
+    flex-wrap: wrap;
+}
+.row.flex-cols > [class*='col-'] {
+    display: flex;
+    flex-direction: column;
+}
