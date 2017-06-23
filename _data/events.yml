@@ -1,20 +1,4 @@
 # Events
-  - name: "Guest Workshop with IMade3D: Build your own 3D printer"
-    href: "https://www.imade3d.com/one-day-build/"
-    pic: imade3d
-    date: 2017-06-10 08:00
-    classtime: Saturday, June 10, 8AM-8PM
-    desc: "IMade3D is the Highland County company that designed and made the Jellybox 3D Printer you may have seen on display at the Staunton Makerspace. We've been grateful for their generosity in loaning it to us these past few months. On Saturday, June 10 we're excited to host their Build Your Own 3D Printer workshop, described by them here: Build your own 3D Printer in just one day! Now, for the first time in the Shenandoah Valley, we are pleased to announce that we are hosting a One Day 3D Printer build!  Building your 3D printer is by far the best way to take ownership of the technology and to really get to understand it. You will be in a complete control, and able fix it when it breaks. You lose any inhibition or feelings of awe. You will be in charge. In just one day, you will build the award winning, made-for-education JellyBox 3D printer from the ground up, learn about it from the inside out and begin printing with it. You can even bring a friend, a kid, a spouse or even a first date."
-    price: $1,350
-  - name: "Woodworking 101: Make Your Own Coat Rack"
-    href: "https://www.eventbrite.com/e/woodworking-101-make-your-own-coat-rack-tickets-34521813674"
-    pic: coatrack
-    date: 2017-06-17 10:00
-    classtime: Saturday, June 17, 10AM-2PM
-    desc: "This skills-focused course is designed to provide an introduction to both hand and power tool techniques for basic woodworking. Attendees will construct a coat rack to take home with them upon completion. Enjoy the making process, be proud of your creation, plus get comfortable on woodworking equipment. This course is designed to be accessible to the novice but also fun for those with moderate woodworking experience. All levels of experience are welcome. Open to ages 8 and up, although children should be accompanied by an adult.
-    Instructor: Rick Hubbard. Rick is a long-time woodworker and donor of many of the makerspaces woodworking tools. He teaches “Make It & Take It” makerspace workshops, introducing students to new equipment and helping them begin their woodworking journeys from skill acquisition, to design, construction, finishing and more.
-    In Partership with: Staunton Parks and Recreation! You can register online by clicking on the price below. You can also register in person at the Staunton Parks and Rec offices, or at the Staunton Makerspace. We look forward to seeing you there."
-    price: $60
   - name: "3D Printing with Tinkercad: Make It & Take It"
     href: "https://www.eventbrite.com/e/3d-printing-w-tinkercad-make-it-take-it-tickets-34521497729"
     pic: 3dlogo
@@ -46,8 +30,8 @@
     href: "mailto:rc6@stauntonmakerspace.com?Subject=Signup%20for%20RC6"
     pic: planes
     date: 2117-04-20 18:00
-    classtime: Scheduled By Request
-    desc: Another “Make It & Take It” course, students receive direct instruction during this 8-10 week workshop series to design, build, and fly a remote controlled airplane. Course costs include access to tools, training, simulator use, controller, flight coaching, all materials, and RC6 Club membership. All ages welcome, contact Nelson to schedule a session at rc6@stauntonmakerspace.com. Current classes meet Thursday from 6:00-8:00pm.
+    classtime: Ongoing
+    desc: Another “Make It & Take It” course, students receive direct instruction during this 8-10 week workshop series to design, build, and fly a remote controlled airplane. Course costs include access to tools, training, simulator use, controller, flight coaching, all materials, and RC6 Club membership. All ages welcome, contact Nelson at rc6@stauntonmakerspace.com for current class day and time.
     price: $150 for members, $225 for nonmembers
 
 # Past Events
@@ -74,3 +58,19 @@
       By using MakersCAD users are not only learning 3D modeling but computer programming as well. MakerSCAD modular design makes it perfect for beginners but it also contains unlimited possibilities with its advanced JavaSrcript interface for experienced users.
       Please note: MakerSCAD is shifting to a pay what you can model for their software, in which they are looking for everyone to have access to MakerSCAD. The workshop itself is free, and attendees will be able to download Makerscad and pay whatever they want (including $0.00) for the software. Everyone is encouraged (although not required!) to bring a laptop to the event."
     price: FREE
+  - name: "Guest Workshop with IMade3D: Build your own 3D printer"
+    href: "https://www.imade3d.com/one-day-build/"
+    pic: imade3d
+    date: 2017-06-10 08:00
+    classtime: Saturday, June 10, 8AM-8PM
+    desc: "IMade3D is the Highland County company that designed and made the Jellybox 3D Printer you may have seen on display at the Staunton Makerspace. We've been grateful for their generosity in loaning it to us these past few months. On Saturday, June 10 we're excited to host their Build Your Own 3D Printer workshop, described by them here: Build your own 3D Printer in just one day! Now, for the first time in the Shenandoah Valley, we are pleased to announce that we are hosting a One Day 3D Printer build!  Building your 3D printer is by far the best way to take ownership of the technology and to really get to understand it. You will be in a complete control, and able fix it when it breaks. You lose any inhibition or feelings of awe. You will be in charge. In just one day, you will build the award winning, made-for-education JellyBox 3D printer from the ground up, learn about it from the inside out and begin printing with it. You can even bring a friend, a kid, a spouse or even a first date."
+    price: $1,350
+  - name: "Woodworking 101: Make Your Own Coat Rack"
+    href: "https://www.eventbrite.com/e/woodworking-101-make-your-own-coat-rack-tickets-34521813674"
+    pic: coatrack
+    date: 2017-06-17 10:00
+    classtime: Saturday, June 17, 10AM-2PM
+    desc: "This skills-focused course is designed to provide an introduction to both hand and power tool techniques for basic woodworking. Attendees will construct a coat rack to take home with them upon completion. Enjoy the making process, be proud of your creation, plus get comfortable on woodworking equipment. This course is designed to be accessible to the novice but also fun for those with moderate woodworking experience. All levels of experience are welcome. Open to ages 8 and up, although children should be accompanied by an adult.
+    Instructor: Rick Hubbard. Rick is a long-time woodworker and donor of many of the makerspaces woodworking tools. He teaches “Make It & Take It” makerspace workshops, introducing students to new equipment and helping them begin their woodworking journeys from skill acquisition, to design, construction, finishing and more.
+    In Partership with: Staunton Parks and Recreation! You can register online by clicking on the price below. You can also register in person at the Staunton Parks and Rec offices, or at the Staunton Makerspace. We look forward to seeing you there."
+    price: $60
