@@ -1,30 +1,52 @@
 # Events
-  - name: "3D Printing with Tinkercad: Make It & Take It"
-    href: "https://www.eventbrite.com/e/3d-printing-w-tinkercad-make-it-take-it-tickets-34521497729"
-    pic: 3dlogo
-    date: 2017-06-29 18:00
-    classtime: Thursday, June 29, 6-8PM
-    desc: "In this 3D printing course, participants will learn to design, edit, and print in free Tinkercad software. The first half of the course will focus on a general overview of 3D printing and a classroom introduction to Tinkercad, and the second half will invite participants to design their own 3D object with expert assistance provided as students develop their Tinkercad skills. We encourage (though don’t require) participants to bring a laptop. 3D printed designs are limited to two square inches and are available to pick up the day after class. All levels of experience are welcome. Open to ages 7 and up, although children should be accompanied by an adult.
-    Instructor: Andy Wiseman. Andy learned many of his Makerspace skills while building a fully operational (rolling, spinning, and speaking) Star Wars R2D2 replica.
-    In Partnership with: Staunton Parks & Recreation! You can register online by clicking on the price below. You can also register in person at the Staunton Parks and Rec offices, or at the Staunton Makerspace. We look forward to seeing you there."
-    price: $50
-  - name: "Introduction to CNC Routers: Making a Wooden Inlay"
-    href: "https://www.eventbrite.com/e/introduction-to-cnc-routers-making-a-wooden-inlay-tickets-34522077463"
+  - name: "Wooden Inlays with a CNC Router"
+    href: "https://www.eventbrite.com/e/intro-to-cnc-routers-making-a-wooden-inlay-tickets-38089953075"
     pic: heart
-    date: 2017-06-29 18:00
-    classtime: Thursday, July 13, 6:30-8:30PM
-    desc: "This skill building course will introduce you to a CNC routing machine, a software-controlled carving tool that can be used to make precise inlays, 3D carvings, and more. Focusing on Easel, a simple and free software program that makes cutting very straight forward, we’ll cover the basics needed to use this computer-controlled router to carve projects in plastic and wood. Together, we will design and cut a custom inlay for a jewelry box. We will cover many of the basics applicable to all CNC-based machines. We recommend, but do not require, that you bring a laptop. All levels of experience are welcome. Open to ages 7 and up, although children should be accompanied by an adult.
-    Instructor: Dan Funk. Dan is an entrepreneur, computer programmer, website designer, and co-founder of the Staunton Makerspace.
-    In Partnership with: Staunton Parks and Rec! You can register online by clicking on the price below. You can also register in person at the Staunton Parks and Rec offices, or at the Staunton Makerspace. We look forward to seeing you there."
+    date: 2017-09-28 18:30
+    classtime: Thursday, September 28th, 6:30-8:30PM
+    desc: "This skill building course will introduce you to a CNC routing machine, a software-controlled carving tool that can
+be used to make precise inlays, 3D carvings, and more. Focusing on Easel, a simple and free software program that makes cutting very straight forward, we’ll cover the basics needed to use this computer-controlled router to carve projects in plastic and wood. Together, we will design and cut a custom inlay for a jewelry box. We will cover many of the basics applicable to all CNC based machines. We recommend, but do not require, that you bring a laptop.
+All levels of experience are welcome. Open to ages 7 and up, although children should be accompanied by an adult.
+Instructor: Dan Funk. Dan is an entrepreneur, computer programmer, website designer, and co-founder of the Staunton Makerspace."
     price: $55
-  - name: "Introduction to Laser Cutting: Make It & Take It"
-    href: "https://www.eventbrite.com/e/introduction-to-laser-cutting-make-it-take-it-tickets-34522405444"
+  - name: "Vinyl Cutting Intro: Cut Your Own"
+    href: "https://www.eventbrite.com/e/intro-to-vinyl-cutting-make-it-take-it-tickets-38091685256"
+    pic: vinylcut
+    date: 2017-10-12 19:00
+    classtime: Thursday, October 12th, 7:00-8:30PM
+    desc: "Vinyl cutouts are used to decorate cars, make signs, express creativity, and let the world know you're here. In this introductory course, we'll cover proper setup of a vinyl cutter (knife adjustment, loading the media, cut speed, and cut pressure), its software, the media to be cut, and the preparation and installation of the cut media. An introductory course, this workshop is designed to provide all of the basic skill sets to design and create a vinyl cut out the night of the workshop, as well the knowledge and confidence to return for independent projects in the future.
+All levels of experience welcome. Children are also welcome to register but should be accompanied by a registered adult as well.
+Instructor: Matt Stanton"
+    price: $50
+  - name: "3D Printing with TinkerCad: Make It & Take It"
+    href: "https://www.eventbrite.com/e/3d-printing-with-tinkercad-make-it-take-it-tickets-38090263002"
+    pic: 3dlogo
+    date: 2017-10-19 18:00
+    classtime: Thursday, October 19th, 6:00-8:30PM
+    desc: "In this 3D printing course, participants will learn to design, edit, and print in free Tinkercad software. The first half of
+the course will focus on a general overview of 3D printing and a classroom introduction to Tinkercad, and the second half will invite participants to design their own 3D object with expert assistance provided as students develop their Tinkercad skills. We encourage (though don’t require) participants to bring a laptop. 3D printed designs are limited to two square inches and are available to pick up after class.
+All levels of experience are welcome. Open to ages 7 and up, although children should be accompanied by an adult.
+Instructor: Andy Wiseman. Andy learned many of his Makerspace skills while building a fully operational (rolling, spinning, and speaking) Star Wars R2D2 replica."
+    price: $50
+  - name: "Intro to Wood Working: Build a Folding Bench"
+    href: "https://www.eventbrite.com/e/intro-to-wood-working-build-a-folding-bench-tickets-38090983156"
+    pic: newwoodworking
+    date: 2017-11-11 14:00
+    classtime: Saturday, November 11th, 10:00AM-2:00PM
+    desc: "This skills-focused course is designed to provide an introduction to both hand and power tool techniques for basic woodworking. Attendees will construct a folding bench to take home with them upon completion. Enjoy the making process, be proud of your creation, plus get comfortable on woodworking equipment. This course is designed to be accessible to the novice but also fun for those with moderate woodworking experience.
+All levels of experience are welcome. Open to ages 8 and up, although children should be accompanied by an
+adult.
+Instructor: Kelly McDonald. Kelly is a maker with a variety of interest - including woodworking, electronics projects and programming - sometimes combining all three into one project! Among his favorite woodworking projects that he’s built are a bookcase with hand-cut dovetails patterned after one at Monticello."
+    price: $60
+  - name: "Intro to Laser Cutting: Make It & Take It"
+    href: "https://www.eventbrite.com/e/intro-to-laser-cutting-make-it-take-it-tickets-38091224879"
     pic: andyr2d2
-    date: 2017-08-10 18:00
-    classtime: Thursday, August 10, 6-8:30PM
-    desc: "This skills-focused Laser Cutting course is designed to take attendees from novice to laser-ready for designing and making laser cut projects. You’ll leave with opensource software for designing, editing, and “printing” laser-cut items, along with your own laser-cut sample project to take home. Laser cut designs are limited to a 5” by 5” design in wood or plexiglass (with both etching and cutting capabilities) and are available to pick up the day after class. We encourage but (don’t require!) you to bring your own laptop. All levels of experience are welcome. Open to ages 7 and up, although children should be accompanied by an adult.
-    Instructor: Andy Wiseman. Andy teaches many “Make It & Take It” makerspace workshops, introducing students to new equipment and helping them begin their own journeys to prototyping, constructing, innovating and more. Andy learned many of his laser cutting skills while building a fully operational (rolling, spinning, and speaking) Star Wars R2D2 replica (pictured above).
-    In Partnership with: Staunton Parks and Rec! You can register online by clicking on the price below. You can also register in person at the Staunton Parks and Rec offices, or at the Staunton Makerspace. We look forward to seeing you there."
+    date: 2017-11-16 18:00
+    classtime: Thursday, November 16th, 6-8:30PM
+    desc: "This skills-focused Laser Cutting course is designed to take attendees from novice to laser-ready for designing and
+making laser cut projects. You’ll leave with open source software for designing, editing, and “printing” laser-cut items, along with your own laser-cut sample project to take home. Laser cut designs are limited to a 5 by 5 design in wood or plexiglass (with both etching and cutting capabilities) and are available to pick up after class. We encourage but (don’t require!) you to bring your own laptop.
+All levels of experience are welcome. Open to ages 7 and up, although children should be accompanied by an adult.
+Instructor: Andy Wiseman. Andy teaches many “Make It & Take It” makerspace workshops, introducing students to new equipment and helping them begin their own journeys to prototyping, constructing, innovating and more."
     price: $50
   - name: "RC6: Design, Build & Fly a Remote Controlled Airplane"
     href: "mailto:rc6@stauntonmakerspace.com?Subject=Signup%20for%20RC6"
@@ -71,6 +93,33 @@
     date: 2017-06-17 10:00
     classtime: Saturday, June 17, 10AM-2PM
     desc: "This skills-focused course is designed to provide an introduction to both hand and power tool techniques for basic woodworking. Attendees will construct a coat rack to take home with them upon completion. Enjoy the making process, be proud of your creation, plus get comfortable on woodworking equipment. This course is designed to be accessible to the novice but also fun for those with moderate woodworking experience. All levels of experience are welcome. Open to ages 8 and up, although children should be accompanied by an adult.
-    Instructor: Rick Hubbard. Rick is a long-time woodworker and donor of many of the makerspaces woodworking tools. He teaches “Make It & Take It” makerspace workshops, introducing students to new equipment and helping them begin their woodworking journeys from skill acquisition, to design, construction, finishing and more.
+    Instructor: Rick Hubbard. Rick is a long-time woodworker and donor of many of the makerspaces woodworking tools. He teaches Make It & Take It makerspace workshops, introducing students to new equipment and helping them begin their woodworking journeys from skill acquisition, to design, construction, finishing and more.
     In Partership with: Staunton Parks and Recreation! You can register online by clicking on the price below. You can also register in person at the Staunton Parks and Rec offices, or at the Staunton Makerspace. We look forward to seeing you there."
     price: $60
+  - name: "3D Printing with Tinkercad: Make It & Take It"
+    href: "https://www.eventbrite.com/e/3d-printing-w-tinkercad-make-it-take-it-tickets-34521497729"
+    pic: 3dlogo
+    date: 2017-06-29 18:00
+    classtime: Thursday, June 29, 6-8PM
+    desc: "In this 3D printing course, participants will learn to design, edit, and print in free Tinkercad software. The first half of the course will focus on a general overview of 3D printing and a classroom introduction to Tinkercad, and the second half will invite participants to design their own 3D object with expert assistance provided as students develop their Tinkercad skills. We encourage (though don’t require) participants to bring a laptop. 3D printed designs are limited to two square inches and are available to pick up the day after class. All levels of experience are welcome. Open to ages 7 and up, although children should be accompanied by an adult.
+    Instructor: Andy Wiseman. Andy learned many of his Makerspace skills while building a fully operational (rolling, spinning, and speaking) Star Wars R2D2 replica.
+    In Partnership with: Staunton Parks & Recreation! You can register online by clicking on the price below. You can also register in person at the Staunton Parks and Rec offices, or at the Staunton Makerspace. We look forward to seeing you there."
+    price: $50
+  - name: "Introduction to CNC Routers: Making a Wooden Inlay"
+    href: "https://www.eventbrite.com/e/introduction-to-cnc-routers-making-a-wooden-inlay-tickets-34522077463"
+    pic: heart
+    date: 2017-06-29 18:00
+    classtime: Thursday, July 13, 6:30-8:30PM
+    desc: "This skill building course will introduce you to a CNC routing machine, a software-controlled carving tool that can be used to make precise inlays, 3D carvings, and more. Focusing on Easel, a simple and free software program that makes cutting very straight forward, we’ll cover the basics needed to use this computer-controlled router to carve projects in plastic and wood. Together, we will design and cut a custom inlay for a jewelry box. We will cover many of the basics applicable to all CNC-based machines. We recommend, but do not require, that you bring a laptop. All levels of experience are welcome. Open to ages 7 and up, although children should be accompanied by an adult.
+    Instructor: Dan Funk. Dan is an entrepreneur, computer programmer, website designer, and co-founder of the Staunton Makerspace.
+    In Partnership with: Staunton Parks and Rec! You can register online by clicking on the price below. You can also register in person at the Staunton Parks and Rec offices, or at the Staunton Makerspace. We look forward to seeing you there."
+    price: $55
+  - name: "Introduction to Laser Cutting: Make It & Take It"
+    href: "https://www.eventbrite.com/e/introduction-to-laser-cutting-make-it-take-it-tickets-34522405444"
+    pic: andyr2d2
+    date: 2017-08-10 18:00
+    classtime: Thursday, August 10, 6-8:30PM
+    desc: "This skills-focused Laser Cutting course is designed to take attendees from novice to laser-ready for designing and making laser cut projects. You’ll leave with opensource software for designing, editing, and “printing” laser-cut items, along with your own laser-cut sample project to take home. Laser cut designs are limited to a 5” by 5” design in wood or plexiglass (with both etching and cutting capabilities) and are available to pick up the day after class. We encourage but (don’t require!) you to bring your own laptop. All levels of experience are welcome. Open to ages 7 and up, although children should be accompanied by an adult.
+    Instructor: Andy Wiseman. Andy teaches many “Make It & Take It” makerspace workshops, introducing students to new equipment and helping them begin their own journeys to prototyping, constructing, innovating and more. Andy learned many of his laser cutting skills while building a fully operational (rolling, spinning, and speaking) Star Wars R2D2 replica (pictured above).
+    In Partnership with: Staunton Parks and Rec! You can register online by clicking on the price below. You can also register in person at the Staunton Parks and Rec offices, or at the Staunton Makerspace. We look forward to seeing you there."
+    price: $50
