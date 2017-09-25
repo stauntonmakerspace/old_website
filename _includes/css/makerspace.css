@@ -55,10 +55,10 @@ table.membership tr td{
   font:14px;
 }
 .row.flex-cols {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 .row.flex-cols > [class*='col-'] {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
