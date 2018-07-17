@@ -1,13 +1,21 @@
 
 Pre-Requirements:
 =====================
-You will need to have Ruby installed, and then "gem install jekyll"
-And then deal with all the insuing hate and anger that comes with 
-software systems to promise simplicity, then fail you.
+You will need to have Ruby installed.  Then you should follow these magical steps:
+
+1. gem install jekyll
+2. gem install bundler
+3.  bundle install --path vendor/bundle
+
+And then deal with all the ensuing hate and anger that comes with 
+software systems that promise simplicity, then deliver complex pain and confusion.
+
 
 How to Run Locally:
 ======================
-jekyll serve
+```bash
+bundle exec jekyll serve
+```
 
 OR if you run into problems (like I did after not running this for eons)
 
